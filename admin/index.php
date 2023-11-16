@@ -66,8 +66,8 @@ if (isset($_SESSION['admin_id']) && isset($_SESSION['role'])){
                     Fee Structure
                 </a>
                 <a href="" class="col btn btn-primary m-2 py-3 col-5">
-                    <i class="fa fa-cogs fs-1" aria-hidden="true"></i><br>
-                    Settings
+                    <i class="fa fa-question-circle fs-1" aria-hidden="true"></i><br>
+                    Ask Query
                 </a>
                 <a href="../logout.php" class="col btn btn-warning m-2 py-3 col-5">
                     <i class="fa fa-sign-out fs-1" aria-hidden="true"></i><br>
