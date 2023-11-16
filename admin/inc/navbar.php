@@ -45,7 +45,7 @@
                         <a class="nav-link" href="#contact">Fee Structure</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Settings</a>
+                        <a class="nav-link" href="#contact">Ask Query</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav me-right mb-2 mb-lg-0">
